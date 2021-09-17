@@ -21,13 +21,10 @@ surveillance, witness face reconstruction, computerized aging, control systems  
   
   <h1> Screenshots </h1>
   <h2> Input Screen </h2>
-<img src="Screenshots/Screenshot (1).png" /> 
 
-  <br><br>
-  
 <h2> Output Screen </h2> 
 
-  <img src="Screenshots/Screenshot (6).png" /> 
+  <img src="Screenshots/Screenshot (0).png" /> 
   <br><br>
 
 
