@@ -1,5 +1,5 @@
-<div align="center"> <img src="Screenshots/main.jfif" width="400" height="250"> </center> </div>
-https://eyes-and-face-detection.herokuapp.com/
+<div align="center"> <img src="main.jfif" width="400" height="250"> </center> </div>
+
 <i>
   
   <h2> <i> Face  and EYE Detection App </i> </h2>
@@ -24,7 +24,7 @@ surveillance, witness face reconstruction, computerized aging, control systems  
 
 <h2> Output Screen </h2> 
 
-  <img src="Screenshots/Screenshot (0).png" /> 
+  <img src="Screenshot (0).png" /> 
   <br><br>
 
 
